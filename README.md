@@ -7,7 +7,7 @@ $ pkg install play-audio
 
 $ pkg install git
 
-$ git clone https://github.com/fahrukate/email
+$ git clone https://github.com/RONI-MD/email
 
 $ cd email
 

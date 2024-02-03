@@ -1,4 +1,4 @@
-# email
+# PERINTAH 
 $ pkg update -y
 
 $ pkg install python -y
